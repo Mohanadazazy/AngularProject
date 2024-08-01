@@ -1,0 +1,11 @@
+nav{
+    background-color: #2C3E50;
+}
+nav ul li a{
+    font-size: 18px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-weight: 600;
+}
+.bggreen{
+    background-color: #1ABC9C;
+}
